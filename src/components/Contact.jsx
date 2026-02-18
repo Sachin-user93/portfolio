@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react'
+import footerBg from '../assets/footer-bg-color.png';
 
 export default function Contact() {
     const [result, setResult] = useState("");
